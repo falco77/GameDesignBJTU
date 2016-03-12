@@ -41,12 +41,12 @@ The game end when the defined condition are done. The game configuration is set 
 
 Inputs :
 
-ACTIONS			KEYBOARD		JOYPAD
-Up				Arrow up		Right Pad up
-Down			Arrow down		Right Pad down
-Right			Arrow right		Right Pad right
-Left			Arrow left		Right Pad left
-Shoot ball		Left click		R1
-Shoot laser		Left click		Left Pad direction
-Bonuses			rightclick		L1
+ACTIONS		  	KEYBOARD	    	JOYPAD
+Up			  	  Arrow up	    	Right Pad up
+Down		  	  Arrow down	  	Right Pad down
+Right		  	  Arrow right	  	Right Pad right
+Left		  	  Arrow left	  	Right Pad left
+Shoot ball		Left click	  	R1
+Shoot laser		Left click	  	Left Pad direction
+Bonuses			  rightclick	  	L1
 

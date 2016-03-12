@@ -1,6 +1,7 @@
 # GameDesignBJTU
 Game Design document for bjtu
 
+Jeremy Falconnier 15129073
 Galactic Orbital Death Sport (aka G.O.D.S)
 
 

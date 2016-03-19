@@ -67,4 +67,12 @@ aims of the games :
 - The game must center itself on team play
 - it's impossible to win alone
 
+/// pics of the prototype
+
+https://github.com/falco77/GameDesignBJTU/blob/master/controls%20GODS.jpg
+
+https://github.com/falco77/GameDesignBJTU/blob/master/Map.PNG
+
+https://github.com/falco77/GameDesignBJTU/blob/master/ships%20selections.jpg
+
 

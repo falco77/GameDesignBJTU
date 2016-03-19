@@ -58,3 +58,13 @@ Shoot laser	/	Left click	  /	Left Pad direction
 
 Bonuses			/  rightclick	  /	L1
 
+
+aims of the games :
+
+- the game has to be reactive and fun
+- the game need a good network reactivity
+- the game has to attract all level of players and all ages
+- The game must center itself on team play
+- it's impossible to win alone
+
+
